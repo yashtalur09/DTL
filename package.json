@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ev charger",
   "main": "index.html",
-  "url":"https://github.com/InatanayaXSk/EVConnekt",
+  "url": "https://github.com/InatanayaXSk/EVConnekt",
   "scripts": {
     "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,9 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "@tomtom-international/web-sdk-maps": "^6.20.0",
-    "http-server": "^0.11.1"
+    "http-server": "^14.1.1"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^6.2.0"
   }
 }
