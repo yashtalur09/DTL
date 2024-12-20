@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ev charger",
   "main": "index.html",
-  "url": "https://github.com/InatanayaXSk/EVConnekt",
+  "url": "https://github.com/yashtalur09/DTL.git",
   "scripts": {
     "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1",
